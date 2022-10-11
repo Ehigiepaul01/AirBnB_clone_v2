@@ -1,4 +1,4 @@
-s module defines a class to manage file storage for hbnb clone"""
+#!/usr/bin/python3
 import json
 import os
 from importlib import import_module
